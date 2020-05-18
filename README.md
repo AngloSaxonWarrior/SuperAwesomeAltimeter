@@ -1,0 +1,2 @@
+# SuperAwesomeAltimeter
+Accelerometer-based altimeter
